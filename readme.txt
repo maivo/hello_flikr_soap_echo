@@ -1,2 +1,7 @@
-demonstrate calling the weather soap service.
-the request is created from a chunk template
+demonstrate calling the flikr echo service
+
+///////////////
+//ref
+https://www.flickr.com/services/api/request.soap.html
+
+
