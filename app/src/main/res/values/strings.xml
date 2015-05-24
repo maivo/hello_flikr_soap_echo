@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Soap Weather</string>
+
+    <string name="hello_world">Hello world 02!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_go">Go</string>
+</resources>
